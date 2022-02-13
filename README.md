@@ -10,5 +10,5 @@
 
 <p align="center">
   
-<a href="https://www.instagram.com/ahmadd_faress/"><img alt="Instagram" src="intagram.svg"></a>
+<a href="https://www.instagram.com/ahmadd_faress/">< src="intagram.svg"></a>
 
