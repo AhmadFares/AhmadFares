@@ -6,5 +6,9 @@
 - Great java skills
 - Athlete
 
-### Connect with me
-[![https://codeSTACKr.com](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+
+<p align="center">
+  
+<a href="https://www.instagram.com/ahmadd_faress/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+
