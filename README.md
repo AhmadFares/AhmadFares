@@ -1,10 +1,14 @@
 ### Hi there, I'm Ahmad aka Fares
+## (ReadMe is uder construction)
 
 ## I am a Computer Sciene senior student
 - Currently seeking knowledge and experience in everything
 - Learning currently mobile development, game programming, and nature language processing
 - Great java skills
 - Athlete 
+<br>
+<br>
+  
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
