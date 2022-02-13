@@ -6,8 +6,6 @@
 - Learning currently mobile development, game programming, and nature language processing
 - Great java skills
 - Athlete 
-<br>
- 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
