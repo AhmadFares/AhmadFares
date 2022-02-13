@@ -10,6 +10,6 @@
 
 <p align="center">
   
-<a href="https://www.instagram.com/ahmadd_faress/">< /![instagram](https://user-images.githubusercontent.com/98591677/153772695-e2fa2b92-eab7-4910-a0f7-1930ab169db7.svg)
+<a href="https://www.instagram.com/ahmadd_faress/"> ![instagram](https://user-images.githubusercontent.com/98591677/153772695-e2fa2b92-eab7-4910-a0f7-1930ab169db7.svg)
 </a>
 
