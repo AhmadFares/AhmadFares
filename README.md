@@ -1,5 +1,5 @@
 ### Hi there, I'm Ahmad aka Fares
-## (ReadMe is uder construction)
+- (ReadMe is uder construction)
 
 ## I am a Computer Sciene senior student
 - Currently seeking knowledge and experience in everything
