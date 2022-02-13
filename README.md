@@ -10,5 +10,5 @@
 
 <p align="center">
   
-<a href="https://www.instagram.com/ahmadd_faress/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/ahmadd_faress/"><img alt="Instagram" src="intagram.svg"></a>
 
